@@ -7,3 +7,6 @@ this is an illustration run on Notebook<br />
 ![image](https://user-images.githubusercontent.com/77916532/133938949-e85b291a-c243-4907-93af-6bad8586f6b1.png)<br />
 ![image](https://user-images.githubusercontent.com/77916532/133938959-1d463cde-dcfa-4e86-b3ad-147a28c67bff.png)<br />
 Tkinter UI <br />
+
+Web App is trained on naive bayes algoithm that predicts the disease on basis of 5 symptoms <br />
+![image](https://user-images.githubusercontent.com/77916532/133939044-eff058d4-dfa3-4049-8903-9cb00d446adc.png)<br />
